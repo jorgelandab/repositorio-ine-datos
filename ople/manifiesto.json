@@ -1,0 +1,394 @@
+{
+  "esquema": 1,
+  "generado": "2026-11-11T13:30:41-06:00",
+  "total": 62392,
+  "entidades": [
+    {
+      "clave": "ags",
+      "entidad": "Aguascalientes",
+      "estatus": "capturado",
+      "acuerdos": 405,
+      "corte": "2026-10-28",
+      "sha256": "637201521cc72bd0e607e9da1eed9932af6c393130937d6eddd00ff56524069b",
+      "bytes": 44423,
+      "fuentes": [
+        "IEE Aguascalientes"
+      ]
+    },
+    {
+      "clave": "bc",
+      "entidad": "Baja California",
+      "estatus": "capturado",
+      "acuerdos": 2488,
+      "corte": "2026-10-29",
+      "sha256": "6da66f866376ecee911a68450ba60d62e508a14360a28c2da3970254c885b032",
+      "bytes": 188716,
+      "fuentes": [
+        "IEEBC"
+      ]
+    },
+    {
+      "clave": "bcs",
+      "entidad": "Baja California Sur",
+      "estatus": "capturado",
+      "acuerdos": 1688,
+      "corte": "2026-10-29",
+      "sha256": "2bbc4934ea056184e0d4a4ce9ecd55e04863d51f44be3a240538a8c32ca2bcd2",
+      "bytes": 157679,
+      "fuentes": [
+        "IEEBCS"
+      ]
+    },
+    {
+      "clave": "cam",
+      "entidad": "Campeche",
+      "estatus": "capturado",
+      "acuerdos": 1197,
+      "corte": "2026-10-28",
+      "sha256": "38d151fe71ddeb256a79f26144d4c15035b9cabf1d65d98b86f0a49a6e721e77",
+      "bytes": 107953,
+      "fuentes": [
+        "IEEC"
+      ]
+    },
+    {
+      "clave": "chis",
+      "entidad": "Chiapas",
+      "estatus": "capturado",
+      "acuerdos": 2170,
+      "corte": "2026-10-29",
+      "sha256": "12804318dd22c1de34a6c02cb83a7b3dd6d972b3b3a3b36e488bbff947756919",
+      "bytes": 209596,
+      "fuentes": [
+        "IEPC Chiapas"
+      ]
+    },
+    {
+      "clave": "chih",
+      "entidad": "Chihuahua",
+      "estatus": "parcial (fuentes públicas sin captcha)",
+      "acuerdos": 645,
+      "corte": "2026-10-08",
+      "sha256": "1a592b8de966f0f2e7047393609247e9150c80ff4469ba1101c1db81ed479432",
+      "bytes": 63410,
+      "fuentes": [
+        "transparencia A83-XIII + Periódico Oficial",
+        "transparencia A83-XIII",
+        "Periódico Oficial"
+      ]
+    },
+    {
+      "clave": "cdmx",
+      "entidad": "Ciudad de México",
+      "estatus": "capturado parcial (captura lenta en curso; captcha antibot)",
+      "acuerdos": 56,
+      "corte": "2026-10-29",
+      "sha256": "fe9127d18078a63db690b450037cd2385a459d37d8f8752b8cef9a1dfb2f0bbf",
+      "bytes": 6249,
+      "fuentes": [
+        "IECM"
+      ]
+    },
+    {
+      "clave": "coa",
+      "entidad": "Coahuila",
+      "estatus": "capturado",
+      "acuerdos": 1501,
+      "corte": "2024",
+      "sha256": "5d1d826a4d04f797a615fe4b790479032708d8abc92e89b986e51b78ca3b8111",
+      "bytes": 74710,
+      "fuentes": [
+        "IEC Coahuila"
+      ]
+    },
+    {
+      "clave": "col",
+      "entidad": "Colima",
+      "estatus": "capturado",
+      "acuerdos": 1276,
+      "corte": "2026-10-28",
+      "sha256": "280007da9c1d489dd27e2c0028b3e55881d8c869750bbd9bdde836fc338667cd",
+      "bytes": 111117,
+      "fuentes": [
+        "IEE Colima"
+      ]
+    },
+    {
+      "clave": "dgo",
+      "entidad": "Durango",
+      "estatus": "capturado",
+      "acuerdos": 1278,
+      "corte": "2026",
+      "sha256": "255ae988e6e2141cc2973ba6aa1335ae59d490a92a26df2a651a60d9f59d6eba",
+      "bytes": 90567,
+      "fuentes": [
+        "IEPC Durango"
+      ]
+    },
+    {
+      "clave": "mex",
+      "entidad": "Estado de México",
+      "estatus": "capturado",
+      "acuerdos": 3537,
+      "corte": "2026-10-28",
+      "sha256": "cbd3feedff2b14ab07fcef86176054228f8e8adfec5ee81121344c207de66bee",
+      "bytes": 212558,
+      "fuentes": [
+        "IEEM"
+      ]
+    },
+    {
+      "clave": "gto",
+      "entidad": "Guanajuato",
+      "estatus": "capturado",
+      "acuerdos": 1921,
+      "corte": "2026-10-25",
+      "sha256": "c7b8082d04407dfef6c4aee19a222acaf9b15e40f0abb42f8fa9157e7d8d743f",
+      "bytes": 175015,
+      "fuentes": [
+        "IEEG"
+      ]
+    },
+    {
+      "clave": "gro",
+      "entidad": "Guerrero",
+      "estatus": "capturado",
+      "acuerdos": 1716,
+      "corte": "2026-10-29",
+      "sha256": "1a8e000dca9c894d59eeaece99005b1ab6819e355598db5872f79e1935cbd0d0",
+      "bytes": 193676,
+      "fuentes": [
+        "IEPC Guerrero"
+      ]
+    },
+    {
+      "clave": "hgo",
+      "entidad": "Hidalgo",
+      "estatus": "capturado",
+      "acuerdos": 1700,
+      "corte": "2026-10-29",
+      "sha256": "a4daeaa48b7dd4eee176d976ec56e0ee54da0c34dbcaed9c041a491199a659d9",
+      "bytes": 115604,
+      "fuentes": [
+        "IEEH"
+      ]
+    },
+    {
+      "clave": "jal",
+      "entidad": "Jalisco",
+      "estatus": "capturado",
+      "acuerdos": 1148,
+      "corte": "2026-10-23",
+      "sha256": "8c7d199ce9c63da133efa9c5992fabf1436d674756a419cd54fce4f57b35d946",
+      "bytes": 59805,
+      "fuentes": [
+        "IEPC Jalisco"
+      ]
+    },
+    {
+      "clave": "mich",
+      "entidad": "Michoacán",
+      "estatus": "capturado",
+      "acuerdos": 2646,
+      "corte": "2026-10-20",
+      "sha256": "0df81c1857ea0f23314a547d87edc280d818dfd402a139077b930886376d72a9",
+      "bytes": 179195,
+      "fuentes": [
+        "IEM"
+      ]
+    },
+    {
+      "clave": "mor",
+      "entidad": "Morelos",
+      "estatus": "capturado",
+      "acuerdos": 4461,
+      "corte": "2026-10-28",
+      "sha256": "e89c14b92c83fd86d106dfe41558fdafa020b046f96413d8e01085687ccf74ac",
+      "bytes": 107338,
+      "fuentes": [
+        "IMPEPAC"
+      ]
+    },
+    {
+      "clave": "nay",
+      "entidad": "Nayarit",
+      "estatus": "capturado",
+      "acuerdos": 1898,
+      "corte": "2026-10-26",
+      "sha256": "453d2676a65728e7a44db87c6b653b20f61b291ae69fe32879482d0f23ea799b",
+      "bytes": 133102,
+      "fuentes": [
+        "IEEN"
+      ]
+    },
+    {
+      "clave": "nl",
+      "entidad": "Nuevo León",
+      "estatus": "capturado",
+      "acuerdos": 2723,
+      "corte": "2026-10-29",
+      "sha256": "304018028f70fac179294c7ed224194b5e6e22664210c514e383114d91071b34",
+      "bytes": 193303,
+      "fuentes": [
+        "IEEPCNL"
+      ]
+    },
+    {
+      "clave": "oax",
+      "entidad": "Oaxaca",
+      "estatus": "capturado",
+      "acuerdos": 3779,
+      "corte": "2026-10-26",
+      "sha256": "568b97f08e2785a1dfd3d1f22deecb337109de989f5fb08f0604b8403d84d4a5",
+      "bytes": 223167,
+      "fuentes": [
+        "IEEPCO"
+      ]
+    },
+    {
+      "clave": "pue",
+      "entidad": "Puebla",
+      "estatus": "capturado",
+      "acuerdos": 2193,
+      "corte": "2026-10-30",
+      "sha256": "47c965911b6ed9c359a4063c2effda1000dbc744399dd195556942647b56dc63",
+      "bytes": 155457,
+      "fuentes": [
+        "IEE Puebla"
+      ]
+    },
+    {
+      "clave": "qro",
+      "entidad": "Querétaro",
+      "estatus": "capturado",
+      "acuerdos": 2521,
+      "corte": "2026-10-31",
+      "sha256": "9b1fe43f6ed7300c6bf83daca4c50fc6c3410146311882a8bbbc3cb77808b8a1",
+      "bytes": 160862,
+      "fuentes": [
+        "IEEQ"
+      ]
+    },
+    {
+      "clave": "qroo",
+      "entidad": "Quintana Roo",
+      "estatus": "capturado",
+      "acuerdos": 1763,
+      "corte": "2026-10-29",
+      "sha256": "9a6176767b26292c310429a7862d4d28de41886db6ed612e458c63ceba786f25",
+      "bytes": 40179,
+      "fuentes": [
+        "IEQROO"
+      ]
+    },
+    {
+      "clave": "slp",
+      "entidad": "San Luis Potosí",
+      "estatus": "capturado",
+      "acuerdos": 1832,
+      "corte": "2026-10-27",
+      "sha256": "0aaab7e703600ea70ed2b1d5b73af2293daadb6857baa6a6422cc4ff5a98df75",
+      "bytes": 166781,
+      "fuentes": [
+        "CEEPAC"
+      ]
+    },
+    {
+      "clave": "sin",
+      "entidad": "Sinaloa",
+      "estatus": "capturado",
+      "acuerdos": 766,
+      "corte": "2026-10-28",
+      "sha256": "d96782793d66815d48765c863299b02a0cf405377b6b7e734e68ea05f7b04a10",
+      "bytes": 78396,
+      "fuentes": [
+        "IEES Sinaloa"
+      ]
+    },
+    {
+      "clave": "son",
+      "entidad": "Sonora",
+      "estatus": "capturado",
+      "acuerdos": 3201,
+      "corte": "2026-10-15",
+      "sha256": "a6729d7f27948cc845156a70f22652a9fdac8bf94d52ce0f2b0829d15ae9eb15",
+      "bytes": 202060,
+      "fuentes": [
+        "IEE Sonora"
+      ]
+    },
+    {
+      "clave": "tab",
+      "entidad": "Tabasco",
+      "estatus": "capturado",
+      "acuerdos": 996,
+      "corte": "2026-10-15",
+      "sha256": "da305f2762778d5c78b36e5099ba97db52847100fd543d7ea450033826789b91",
+      "bytes": 104239,
+      "fuentes": [
+        "IEPCT"
+      ]
+    },
+    {
+      "clave": "tam",
+      "entidad": "Tamaulipas",
+      "estatus": "capturado",
+      "acuerdos": 1360,
+      "corte": "2026-10-27",
+      "sha256": "07b6cb8b7f9fd99d72ec13682a605d24ef354d33b728f98e95993657dc628b9b",
+      "bytes": 130178,
+      "fuentes": [
+        "IETAM"
+      ]
+    },
+    {
+      "clave": "tlax",
+      "entidad": "Tlaxcala",
+      "estatus": "capturado",
+      "acuerdos": 1728,
+      "corte": "2026",
+      "sha256": "74bb09bc52a6cdfe6af120c4d65d4b39b40ded15f0200da87e3680b200a563d6",
+      "bytes": 80251,
+      "fuentes": [
+        "ITE"
+      ]
+    },
+    {
+      "clave": "ver",
+      "entidad": "Veracruz",
+      "estatus": "capturado",
+      "acuerdos": 3796,
+      "corte": "2026-10-28",
+      "sha256": "95ac494c1f107090d2edbe728c97f09ed8e9062e60800e145e093eeb7c5fbebf",
+      "bytes": 315004,
+      "fuentes": [
+        "OPLEV"
+      ]
+    },
+    {
+      "clave": "yuc",
+      "entidad": "Yucatán",
+      "estatus": "capturado",
+      "acuerdos": 2153,
+      "corte": "2026-10-14",
+      "sha256": "c68239139fc4efe05d5319279d017f847b6a59e5c89df3baef04a5a8e383720f",
+      "bytes": 135948,
+      "fuentes": [
+        "IEPAC Yucatán",
+        "IPEPAC Yucatán"
+      ]
+    },
+    {
+      "clave": "zac",
+      "entidad": "Zacatecas",
+      "estatus": "capturado",
+      "acuerdos": 1850,
+      "corte": "2026-10-29",
+      "sha256": "4e484f29d78591ce17f5617fd0ecc1b90fcb03dcad757d1cff8f5610c0a7baf0",
+      "bytes": 219976,
+      "fuentes": [
+        "IEEZ"
+      ]
+    }
+  ]
+}
